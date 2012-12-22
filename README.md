@@ -10,12 +10,20 @@ First of all, twtbot requires tweepy library. It can be downloaded from https://
 
 Change following values in source code:
 
+
+
 consumer_key=[YOUR_CONSUMER_KEY]
+
 consumer_secret=[YOUR_CONSUMER_SECRET]
+
 me = [YOUR_MAIL_ADDRESS]         
+
 mail_password = [PASSWORD]      
+
 you = [SENDER_MAIL_ADDRESS]
+
 polling_time = [SET_POLLING_TIME]
+
 
 Run twtbot.py script 
 
